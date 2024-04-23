@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "MyPostgresConn": "Host=flora.db.elephantsql.com;Port=5432;Username=vcjaoucy;Password=ZS_z393CI1O-zFDtfVRZKfkRVWaA3SbY;Database=vcjaoucy;"
+  }
+}
